@@ -39,7 +39,7 @@
 
 ## 📫 Contact
 - 📧 parvikcsisa@gmail.com
-- 💼 LinkedIn:
+- 💼 LinkedIn:    https://www.linkedin.com/in/parvik-undefined-a89538415?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 *"Building AI-proof cybersecurity skills — 
